@@ -1,0 +1,21 @@
+html, body{
+	background: url(labrador-retriever.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+h1, div{
+	font-family: 'Dancing Script', cursive;
+}
+
+.round{
+border-radius: 300px;
+}
+
+.container{
+	display:flex;
+	align-items: center;
+}
